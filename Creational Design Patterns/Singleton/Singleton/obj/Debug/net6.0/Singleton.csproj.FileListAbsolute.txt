@@ -1,0 +1,15 @@
+C:\Users\Saurabh_Singh\source\repos\Creational Design Patterns\Singleton\Singleton\obj\Debug\net6.0\Singleton.csproj.AssemblyReference.cache
+C:\Users\Saurabh_Singh\source\repos\Creational Design Patterns\Singleton\Singleton\obj\Debug\net6.0\Singleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saurabh_Singh\source\repos\Creational Design Patterns\Singleton\Singleton\obj\Debug\net6.0\Singleton.AssemblyInfoInputs.cache
+C:\Users\Saurabh_Singh\source\repos\Creational Design Patterns\Singleton\Singleton\obj\Debug\net6.0\Singleton.AssemblyInfo.cs
+C:\Users\Saurabh_Singh\source\repos\Creational Design Patterns\Singleton\Singleton\obj\Debug\net6.0\Singleton.csproj.CoreCompileInputs.cache
+C:\Users\Saurabh_Singh\source\repos\Creational Design Patterns\Singleton\Singleton\bin\Debug\net6.0\Singleton.exe
+C:\Users\Saurabh_Singh\source\repos\Creational Design Patterns\Singleton\Singleton\bin\Debug\net6.0\Singleton.deps.json
+C:\Users\Saurabh_Singh\source\repos\Creational Design Patterns\Singleton\Singleton\bin\Debug\net6.0\Singleton.runtimeconfig.json
+C:\Users\Saurabh_Singh\source\repos\Creational Design Patterns\Singleton\Singleton\bin\Debug\net6.0\Singleton.dll
+C:\Users\Saurabh_Singh\source\repos\Creational Design Patterns\Singleton\Singleton\bin\Debug\net6.0\Singleton.pdb
+C:\Users\Saurabh_Singh\source\repos\Creational Design Patterns\Singleton\Singleton\obj\Debug\net6.0\Singleton.dll
+C:\Users\Saurabh_Singh\source\repos\Creational Design Patterns\Singleton\Singleton\obj\Debug\net6.0\refint\Singleton.dll
+C:\Users\Saurabh_Singh\source\repos\Creational Design Patterns\Singleton\Singleton\obj\Debug\net6.0\Singleton.pdb
+C:\Users\Saurabh_Singh\source\repos\Creational Design Patterns\Singleton\Singleton\obj\Debug\net6.0\Singleton.genruntimeconfig.cache
+C:\Users\Saurabh_Singh\source\repos\Creational Design Patterns\Singleton\Singleton\obj\Debug\net6.0\ref\Singleton.dll

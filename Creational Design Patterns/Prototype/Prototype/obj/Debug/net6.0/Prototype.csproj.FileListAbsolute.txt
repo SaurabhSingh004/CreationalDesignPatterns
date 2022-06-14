@@ -1,0 +1,15 @@
+C:\Users\Saurabh_Singh\source\repos\Creational Design Patterns\Prototype\Prototype\bin\Debug\net6.0\Prototype.exe
+C:\Users\Saurabh_Singh\source\repos\Creational Design Patterns\Prototype\Prototype\bin\Debug\net6.0\Prototype.deps.json
+C:\Users\Saurabh_Singh\source\repos\Creational Design Patterns\Prototype\Prototype\bin\Debug\net6.0\Prototype.runtimeconfig.json
+C:\Users\Saurabh_Singh\source\repos\Creational Design Patterns\Prototype\Prototype\bin\Debug\net6.0\Prototype.dll
+C:\Users\Saurabh_Singh\source\repos\Creational Design Patterns\Prototype\Prototype\bin\Debug\net6.0\Prototype.pdb
+C:\Users\Saurabh_Singh\source\repos\Creational Design Patterns\Prototype\Prototype\obj\Debug\net6.0\Prototype.csproj.AssemblyReference.cache
+C:\Users\Saurabh_Singh\source\repos\Creational Design Patterns\Prototype\Prototype\obj\Debug\net6.0\Prototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saurabh_Singh\source\repos\Creational Design Patterns\Prototype\Prototype\obj\Debug\net6.0\Prototype.AssemblyInfoInputs.cache
+C:\Users\Saurabh_Singh\source\repos\Creational Design Patterns\Prototype\Prototype\obj\Debug\net6.0\Prototype.AssemblyInfo.cs
+C:\Users\Saurabh_Singh\source\repos\Creational Design Patterns\Prototype\Prototype\obj\Debug\net6.0\Prototype.csproj.CoreCompileInputs.cache
+C:\Users\Saurabh_Singh\source\repos\Creational Design Patterns\Prototype\Prototype\obj\Debug\net6.0\Prototype.dll
+C:\Users\Saurabh_Singh\source\repos\Creational Design Patterns\Prototype\Prototype\obj\Debug\net6.0\refint\Prototype.dll
+C:\Users\Saurabh_Singh\source\repos\Creational Design Patterns\Prototype\Prototype\obj\Debug\net6.0\Prototype.pdb
+C:\Users\Saurabh_Singh\source\repos\Creational Design Patterns\Prototype\Prototype\obj\Debug\net6.0\Prototype.genruntimeconfig.cache
+C:\Users\Saurabh_Singh\source\repos\Creational Design Patterns\Prototype\Prototype\obj\Debug\net6.0\ref\Prototype.dll
